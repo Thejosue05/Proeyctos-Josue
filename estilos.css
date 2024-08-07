@@ -1,0 +1,48 @@
+body {
+    font-size: large;
+    font-weight: bold;
+    margin: auto;
+    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./IMG/cuphead-duo-mono-1366x768.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Titulo-one {
+    color: black;
+    border: 3px groove black;
+    text-align: center;
+    border-radius: 10px;
+    text-shadow: 2px 2px 2px rgb(171, 137, 216);
+}
+
+.parr-1 {
+    color: black;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(171, 137, 216);
+}
+
+ul {
+    list-style: none;
+}
+
+.lista-enlaces li a {
+    text-decoration: none;
+    line-height: 3;
+}
+
+li a {
+    border: 2.5px solid gray;
+    border-radius: 7px;
+    color: black;
+    font-size: larger;
+    text-shadow: 2px 2px 2px rgb(179, 175, 184);
+}
+
+li a:hover {
+    background-color: black;
+    color: beige;
+    cursor: pointer;
+}
+
